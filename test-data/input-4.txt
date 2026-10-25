@@ -1,4 +1,4 @@
 # Alapállapot: mindkét tár tele (10-10), nincs hiba (0-0)
-GT4500,10,0,10,0
+GT4500,10,1,10,0
 # Mindkettőből lő egyszerre
 TORPEDO,ALL
