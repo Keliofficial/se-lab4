@@ -1,0 +1,6 @@
+# Alapállapot: mindkét tár tele (10-10), nincs hiba (0-0)
+GT4500,10,0,10,0
+# 1. lövés: Elsődlegesből kell lőnie
+TORPEDO,SINGLE
+# 2. lövés: Másodlagosból kell lőnie
+TORPEDO,SINGLE
