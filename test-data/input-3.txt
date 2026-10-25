@@ -1,0 +1,6 @@
+# Elsődleges tele (10 db), Másodlagos üres (0 db), nincs hiba
+GT4500,10,0,0,0
+# 1. lövés: Elsődlegesből lő (marad 9 db)
+TORPEDO,SINGLE
+# 2. lövés: Másodlagos jönne, de üres, így újra az elsődlegesből lő (marad 8 db)
+TORPEDO,SINGLE

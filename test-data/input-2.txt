@@ -1,0 +1,4 @@
+# Elsődleges üres (0 db), Másodlagos tele (10 db), nincs hiba
+GT4500,0,0,10,0
+# Mivel az elsődleges (ami alapból jönne) üres, a másodlagosból kell lőnie
+TORPEDO,SINGLE
